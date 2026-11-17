@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Magma_Trace: Simulador de Evolução Geoquímica de Elementos-Traço"
+message: "Se você utilizar este software em aulas, pesquisas ou publicações, cite-o utilizando os metadados abaixo."
+type: software
+authors:
+  - family-names: "Leitzke"
+    given-names: "Felipe Padilha"
+    affiliation: "Departamento de Mineralogia e Petrologia (DEMIPE), Instituto de Geociências (IGEO), Universidade Federal do Rio Grande do Sul (UFRGS)"
+    country: "BR"
+version: 1.0.0
+date-released: "2026-11-15"
+license: MIT
+repository-code: "https://github.com/ocaminhodaspedras/Magma_Trace"
+# doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - Geochemistry
+  - Igneous Petrology
+  - Trace Element Modeling
+  - Partial Melting
+  - Fractional Crystallization
+  - AFC
+  - Python
+abstract: >-
+  Aplicativo desktop interativo em Python/PyQt5 para modelagem quantitativa
+  do fracionamento de elementos-traço (em razões relativas Cl/C0, concentrações
+  absolutas em ppm e padrões normalizados ao Condrito C1) durante processos
+  ígneos de fusão parcial modal e não-modal (cotética e peritética; Shaw, 1970),
+  cristalização fracionada de Rayleigh e assimilação acoplada à cristalização
+  fracionada (AFC; DePaolo, 1981). O aplicativo tem finalidade didática e não tem qualquer interesse comercial.
